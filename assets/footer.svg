@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 140" width="1200" height="140">
+  <defs>
+    <linearGradient id="w" x1="0" x2="1">
+      <stop offset="0" stop-color="#a78bfa"/><stop offset="0.5" stop-color="#22d3ee"/><stop offset="1" stop-color="#f472b6"/>
+    </linearGradient>
+  </defs>
+  <path fill="url(#w)" opacity="0.35" d="M0,70 C200,110 400,30 600,70 C800,110 1000,30 1200,70 L1200,140 L0,140 Z">
+    <animate attributeName="d" values="M0,70 C200,110 400,30 600,70 C800,110 1000,30 1200,70 L1200,140 L0,140 Z;M0,70 C200,30 400,110 600,70 C800,30 1000,110 1200,70 L1200,140 L0,140 Z;M0,70 C200,110 400,30 600,70 C800,110 1000,30 1200,70 L1200,140 L0,140 Z" dur="10s" repeatCount="indefinite"/>
+  </path>
+  <path fill="url(#w)" opacity="0.8" d="M0,95 C250,65 450,125 700,95 C900,70 1050,120 1200,95 L1200,140 L0,140 Z">
+    <animate attributeName="d" values="M0,95 C250,65 450,125 700,95 C900,70 1050,120 1200,95 L1200,140 L0,140 Z;M0,95 C250,125 450,65 700,95 C900,120 1050,70 1200,95 L1200,140 L0,140 Z;M0,95 C250,65 450,125 700,95 C900,70 1050,120 1200,95 L1200,140 L0,140 Z" dur="7s" repeatCount="indefinite"/>
+  </path>
+</svg>

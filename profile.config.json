@@ -1,0 +1,70 @@
+{
+  "username": "pranjalmauryya",
+  "name": "Pranjal Maurya",
+  "role": "Cybersecurity · Software Dev · AI Engineer",
+  "headline": "Breaking systems to secure them · building software & AI that ships.",
+  "status": "Open to collaborate",
+  "location": "Lucknow, India",
+
+  "typing": [
+    "Cybersecurity Enthusiast & Ethical Hacker",
+    "Software Developer: TypeScript · Python · Go",
+    "AI Engineer: LLM agents, MCP & automation",
+    "Securing systems, one exploit at a time"
+  ],
+
+  "bannerNodes": ["SEC", "AI", "API", "RE", "CTF", "DEV"],
+
+  "about": {
+    "role": "Cybersecurity · Software Developer · AI Engineer",
+    "focus": ["Offensive & defensive security", "Secure software development", "AI / LLM engineering", "Security automation"],
+    "currentlyBuilding": "AI-powered security tooling & autonomous agents",
+    "learning": ["Reverse engineering", "Cloud security", "Multi-agent systems"],
+    "askMeAbout": ["Pentesting", "Python & TypeScript", "LLM agents", "CTFs"],
+    "funFact": "I read stack traces for fun, and exploits for breakfast"
+  },
+
+  "stack": {
+    "Languages": "py,ts,js,go,c,cpp,java,bash,powershell",
+    "Security": {
+      "icons": "kali,linux",
+      "badges": [
+        { "name": "Wireshark", "logo": "wireshark" },
+        { "name": "Burp Suite", "logo": "portswigger" },
+        { "name": "Metasploit", "logo": "metasploit" },
+        { "name": "OWASP", "logo": "owasp" },
+        { "name": "Hack The Box", "logo": "hackthebox" },
+        { "name": "TryHackMe", "logo": "tryhackme" }
+      ]
+    },
+    "AI & Data": "pytorch,tensorflow,sklearn,opencv,postgres,mongodb,redis",
+    "Frameworks": "react,nextjs,nodejs,fastapi,flask,django,tailwind",
+    "Cloud & DevOps": "docker,aws,githubactions,git,vscode"
+  },
+
+  "projects": [],
+
+  "analytics": {
+    "stats": true,
+    "streak": true,
+    "languages": false,
+    "activityGraph": false,
+    "snake": true
+  },
+
+  "socials": {
+    "portfolio": "",
+    "linkedin": "",
+    "x": "",
+    "email": ""
+  },
+
+  "theme": {
+    "bg": "0d1117",
+    "title": "a78bfa",
+    "icon": "22d3ee",
+    "text": "c9d1d9",
+    "accent": "f472b6",
+    "border": "30363d"
+  }
+}
